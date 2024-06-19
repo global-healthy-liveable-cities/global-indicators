@@ -1,4 +1,11 @@
 # Global Healthy and Sustainable Cities Indicators (global-indicators)
+
+Please see https://github.com/healthysustainablecities/global-indicators for the current version of this software.
+
+We have re-located the repository there under our updated organisation name, consistent with https://healthysustainablecities.org (the Global Observatory of Healthy and Sustainable Cities, which this tool has been designed to support).
+
+An archival copy of the current repository as of 19 June 2024 has been located here, however it is recommended to use the latest software version maintained at the new repository location moving forwards.
+
 ## Summary
 An open-source tool for measuring, monitoring and reporting on policy and spatial urban indicators for healthy, sustainable cities worldwide using open or custom data.  Designed to support participation in the [Global Observatory of Healthy and Sustainable Cities](https://healthysustainablecities.org)' [1000 city challenge](https://www.healthysustainablecities.org/1000cities), it can be run as code or as an app in your web browser.  View the full documentation of the Global Healthy and Sustainable City Indicators software at https://healthysustainablecities.github.io/software/.
 
